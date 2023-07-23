@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "19875456",
+      "status": "Resolved",
+      "title": "Cracked tile on 6 floor",
+      "date": "2022-05-28T11:00:14.882Z",
+      "attachments": [
+        {
+          "id": "3",
+          "src": "https://reactnative.dev/img/tiny_logo.png"
+        },
+        {
+          "id": "4",
+          "src": "https://reactnative.dev/img/tiny_logo.png"
+        }
+      ],
+      "updates": {
+        "id": "1",
+        "date": "2022-05-29T14:30:00.882Z",
+        "description": "Thank you for reporting. A handy man will contact you shortly"
+      }
+    },
+    {
+      "id": "987654",
+      "status": "In Progress",
+      "title": "Washing machine not working",
+      "date": "2022-05-28T11:00:14.882Z",
+      "attachments": [
+        {
+          "id": "3",
+          "src": "https://reactnative.dev/img/tiny_logo.png"
+        },
+        {
+          "id": "4",
+          "src": "https://reactnative.dev/img/tiny_logo.png"
+        }
+      ],
+      "updates": {
+        "id": "1",
+        "date": "2022-05-29T14:30:00.882Z",
+        "description": "Thank you for reporting. A handy man will contact you shortly"
+      }
+    }
+  ]
+}

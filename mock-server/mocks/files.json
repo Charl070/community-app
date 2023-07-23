@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "Estate-rules.jpg",
+      "fileSize": "237Kb",
+      "isFavourite": false,
+      "isRecent": false,
+      "lastAccessed": "2022-04-18T12:08:20.957Z"
+    },
+    {
+      "name": "AGM-meeting.jpg",
+      "fileSize": "249Kb",
+      "isFavourite": true,
+      "isRecent": true,
+      "lastAccessed": "2022-05-18T12:08:20.957Z"
+    },
+    {
+      "name": "March-rules.pdf",
+      "fileSize": "109Kb",
+      "isFavourite": false,
+      "isRecent": true,
+      "lastAccessed": "2022-05-18T12:08:20.957Z"
+    },
+    {
+      "name": "April-rent.pdf",
+      "fileSize": "208Kb",
+      "isFavourite": false,
+      "isRecent": true,
+      "lastAccessed": "2022-05-18T10:08:20.957Z"
+    },
+    {
+      "name": "May-rent.pdf",
+      "fileSize": "208Kb",
+      "isFavourite": false,
+      "isRecent": false,
+      "lastAccessed": "2022-01-18T12:08:20.957Z"
+    },
+    {
+      "name": "June-rent.pdf",
+      "fileSize": "208Kb",
+      "isFavourite": false,
+      "isRecent": true,
+      "lastAccessed": "2022-05-18T11:08:20.957Z"
+    }
+  ]
+}

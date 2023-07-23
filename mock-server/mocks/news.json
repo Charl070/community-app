@@ -1,0 +1,50 @@
+{
+  "data": [
+
+    { "id": "1",
+      "date": "2022-04-04T00:00:14.882Z",
+      "title": "Washing mahine not working",
+      "description": "Washing machine #3 not working. Technicians will be arriving shortly to repair the machine",
+      "attachments": [
+        {
+          "id": "1",
+          "src": "https://reactnative.dev/img/tiny_logo.png",
+          "fileName": "machine"
+        },
+        {
+          "id": "2",
+          "src": "https://reactnative.dev/img/tiny_logo.png",
+          "fileName": "machine"
+        },
+        {
+          "id": "3",
+          "src": "https://reactnative.dev/img/tiny_logo.png",
+          "fileName": "machine"
+        },
+        {
+          "id": "4",
+          "src": "https://reactnative.dev/img/tiny_logo.png",
+          "fileName": "leak"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2022-04-02T00:00:14.882Z",
+      "title": "Water Leakage",
+      "description": "Washing machine #3 not working. Technicians will be arriving shortly to repair the machine",
+      "attachments": [
+        {
+          "id": "3",
+          "src": "https://reactnative.dev/img/tiny_logo.png",
+          "fileName": "water"
+        },
+        {
+          "id": "4",
+          "src": "https://reactnative.dev/img/tiny_logo.png",
+          "fileName": "machine"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+export const colors = {
+  blue: '#2CA8FF',
+  blue2: '#e9f6ff',
+  blue3: '#1D4ED8',
+  blue4: '#2CA8FF80',
+  green: '#C8FFDC',
+  green2: '#15803D',
+  grey1: '#F4F3F3',
+  grey2: '#D4D4D8',
+  grey3: '#BAC0CA',
+  grey: '#D4D4D8',
+  grey7: '#3F3F46',
+  grey8: '#667080',
+  white: '#FFFFFF',
+  black: '#000000',
+  navy: '#004270',
+};

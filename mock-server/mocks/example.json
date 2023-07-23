@@ -1,0 +1,6 @@
+{
+  "data": {
+    "sample": "Hello World!",
+    "message": ["You can add", "any", "information", "in this json", "to mock"]
+  }
+}
